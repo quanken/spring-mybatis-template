@@ -1,5 +1,11 @@
+gradle-app.setting
 .gradle
 build/
+deploy/
+bin
 
-# Ignore Gradle GUI config
-gradle-app.setting
+spring-mybatis-template.iml
+out
+*.swp
+*.class
+*.bak
